@@ -63,4 +63,4 @@ npm start
 
 ## Запуск проєкту
 
-   - npx ts-node hw06/src/main.ts
+   - npx ts-node src/main.ts
